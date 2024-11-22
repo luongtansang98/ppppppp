@@ -331,7 +331,7 @@ function Plasmic___RenderFunc(props: {
                 {...child$Props}
               >
                 <FormItemWrapper
-                  className={classNames("__wab_instance", sty.formField__ms6SK)}
+                  className={classNames("__wab_instance", sty.formField__wMk95)}
                   label={"Name"}
                   name={"name"}
                 >
@@ -340,7 +340,7 @@ function Plasmic___RenderFunc(props: {
                   />
                 </FormItemWrapper>
                 <FormItemWrapper
-                  className={classNames("__wab_instance", sty.formField__vaitw)}
+                  className={classNames("__wab_instance", sty.formField__pc1DV)}
                   label={"Message"}
                   name={"message"}
                 >
@@ -357,7 +357,7 @@ function Plasmic___RenderFunc(props: {
                     className={classNames(
                       projectcss.all,
                       projectcss.__wab_text,
-                      sty.text__sdMTt
+                      sty.text__s6XeC
                     )}
                   >
                     {"Submit"}
