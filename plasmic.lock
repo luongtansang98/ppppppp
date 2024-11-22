@@ -1,0 +1,75 @@
+{
+  "projects": [
+    {
+      "projectId": "gWTKZskK7YvKMhWbWsE2e9",
+      "version": "0.0.2",
+      "dependencies": {},
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "assetId": "gWTKZskK7YvKMhWbWsE2e9",
+          "type": "projectCss",
+          "checksum": "fd83b730367fdbde2c69bc6cf31c2a3c"
+        },
+        {
+          "assetId": "gWTKZskK7YvKMhWbWsE2e9",
+          "checksum": "aa404b4cc6743b0a5943d30ccf817267",
+          "type": "globalContexts"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    },
+    {
+      "projectId": "jVveEgzAn6LkFeGJrnqnRm",
+      "version": "latest",
+      "dependencies": {
+        "gWTKZskK7YvKMhWbWsE2e9": "0.0.2"
+      },
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "assetId": "jVveEgzAn6LkFeGJrnqnRm",
+          "type": "projectCss",
+          "checksum": "6750207c4ed00e1f1072759082fc243a"
+        },
+        {
+          "assetId": "jVveEgzAn6LkFeGJrnqnRm",
+          "checksum": "8644e6a47cbde0618bdebc1a655a8f29",
+          "type": "globalContexts"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "Uqs6hndrxWk1",
+          "checksum": "0de035af67c031f6f0a28a79692fe68c"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "Uqs6hndrxWk1",
+          "checksum": "0de035af67c031f6f0a28a79692fe68c"
+        },
+        {
+          "type": "icon",
+          "assetId": "eOWXRcUf47hR",
+          "checksum": "5111a326055c5882540e164cc179746c"
+        },
+        {
+          "type": "image",
+          "assetId": "aAp6esPe8Mww",
+          "checksum": "bf54b17374494b56ce3ca57b559aeaf9"
+        },
+        {
+          "type": "image",
+          "assetId": "8dmo5NPRgGKy",
+          "checksum": "d52c1fd38ead1295c0576220f014b7d7"
+        },
+        {
+          "type": "image",
+          "assetId": "0I4NhGVb6KBB",
+          "checksum": "93d1acaae4c950e13ed698f500e541dd"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.330"
+}
